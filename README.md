@@ -38,3 +38,13 @@ I am from **ASANSOL ENGINEERING COLLEGE** .
 ### This task contains :  
  
 	1) Replication of the given project picture.
+	
+## Task 5  
+
+### This task contains :  
+ 
+	Replication of the given project picture by:  
+	1) Using css style.
+	2) Giving margins, padding, border,etc.
+	3) Giving background color, text color,etc.
+	4) Adding background image.

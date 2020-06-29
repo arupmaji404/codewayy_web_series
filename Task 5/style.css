@@ -1,0 +1,41 @@
+button{
+	padding: 10px 50px;
+	margin: 0px 70px;
+	margin-bottom: 30px;
+	background:transparent;
+	color: white;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+header{
+	background: url(images/guitar.jpg);
+	background-position: center;
+}
+.history{
+	background-color: white;
+	color: black;
+}
+.box{
+	height: 600px;
+	width: 270px;
+	background-color:green;
+	float: left;
+	
+}
+img{
+	border: solid black 2px;
+	margin: 30px;
+	margin-top:10px;
+}
+ul{
+	margin-left: -20px;
+}
+.last{
+	margin-top:20px;
+	margin-left: 280px;
+}
+#img1{
+	margin-top: 45px;
+}

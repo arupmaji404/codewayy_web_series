@@ -1,0 +1,96 @@
+.box1{
+	
+	background-color: lightgreen;
+	height: 200px;
+	width: 300px;
+	padding: 100px;
+	margin:3px;
+	float: left;
+	
+}
+.sub_box1{
+	
+	text-align: center;
+}
+button{
+	padding: 8px;
+	margin: 10px;
+	background-color: transparent;
+	border: blue solid 1px;
+	color: blue;
+}
+.img1{
+	 height:400px;
+	 width:800px; 
+	 margin: 3px;
+}
+.box2{
+	padding: 20px;
+	text-align: center;
+	background-position: top;
+	color: orange;
+	
+	background-image: url(Images/image1.jpg);
+}
+.box3{
+	
+	background-color: lightgreen;
+	padding: 10px;
+	height: 320px;
+	width: 640px;
+	text-align: center;
+	margin:3px;
+	float: left;
+	
+	
+}
+
+.box4{
+	background-color: lightgreen;
+	padding: 10px;
+	height: 320px;
+	width: 640px;
+	text-align: center;
+	margin:3px;
+	float: right;
+
+}
+
+.box5{
+	
+	padding: 10px;
+	background-color: lightgreen;
+	text-align: center;
+	clear: both;
+}
+.small_box{
+	background-color: lightgreen;
+	text-align: center;
+	float: left;
+	margin: 3px;
+	width: 285px;
+	padding: 20px;
+}
+.violet_box{
+	background-color: violet;
+	clear: both;
+	height: 500px;
+	width: 667px;
+	float: left;
+}
+.contact_box{
+	background-color: lightgreen;
+	text-align: center;
+	height: 500px;
+	width: 667px;
+	float: right;
+	border: none;
+}
+.sent_message{
+	padding: 8px;
+	margin: 10px;
+	background-color: transparent;
+	border: blue solid 1px;
+	color: blue;
+	width: 380px;
+}

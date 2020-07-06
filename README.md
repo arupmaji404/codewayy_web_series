@@ -5,7 +5,7 @@ I am from **ASANSOL ENGINEERING COLLEGE** .
 
 **This file is all about the tasks of web development series. Here contains all the tasks from day 1.**  
 
-## Task 1  [
+## Task 1  
 
 ### This task contains :  
  
@@ -45,6 +45,27 @@ I am from **ASANSOL ENGINEERING COLLEGE** .
  
 	Replication of the given project picture by:  
 	1) Using css style.
+	2) Giving margins, padding, border,etc.
+	3) Giving background color, text color,etc.
+	4) Adding background image.
+	
+## Task 6  
+
+### This task contains :  
+ 
+	Replication of the given project picture by:  
+	1) Using float property.
+	2) Giving margins, padding, border,etc.
+	3) Giving background color, text color,etc.
+	4) Adding background image.
+	5) Adding a form.
+	
+## Task 7  
+
+### This task contains :  
+ 
+	Making a responsive web page design:  
+	1) Using media.
 	2) Giving margins, padding, border,etc.
 	3) Giving background color, text color,etc.
 	4) Adding background image.
